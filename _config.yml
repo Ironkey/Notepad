@@ -71,8 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/Notepad/'
-  relativeLinks: 'http://hmfaysal.github.io/Notepad/links.jsonp'
+  siteurl: 'http://ironkey.github.io/'
+  relativeLinks: 'http://ironkey.github.io/links.jsonp'
   media: 'images'
   metadata:
     _posts:
