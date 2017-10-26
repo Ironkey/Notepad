@@ -1,5 +1,5 @@
 title:            Notepad
-description:      "Blogging is fun"
+description:      "Blogging_test is fun"
 logo:             logo.png
 disqus_shortname: ironkey
 share:            true
@@ -11,7 +11,7 @@ url:        	  /Notepad
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
+  name:           PARK CHI HOON
   avatar:         ironkey.jpg
   email:          hcb0402@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
