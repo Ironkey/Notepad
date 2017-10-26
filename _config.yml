@@ -71,7 +71,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'https://github.com/Ironkey/ironkey.github.com/'
+  siteurl: 'https://ironkey.github.com'
   relativeLinks: 'https://github.com/Ironkey/ironkey.github.com/links.jsonp'
   media: 'images'
   metadata:
