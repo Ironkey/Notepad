@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-title:            Notepad
-=======
 title:            Notepad_test
->>>>>>> master
 description:      "Blogging is fun"
 logo:             logo.png
 disqus_shortname: hmfaysal
@@ -75,13 +71,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-<<<<<<< HEAD
-  siteurl: 'https://ironkey.github.com'
-  relativeLinks: 'https://github.com/Ironkey/ironkey.github.com/links.jsonp'
-=======
   siteurl: 'http://ironkey.github.io/'
   relativeLinks: 'http://ironkey.github.io/links.jsonp'
->>>>>>> master
   media: 'images'
   metadata:
     _posts:
